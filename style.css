@@ -42,6 +42,14 @@ box-shadow: 5px 5px 5px grey;
   box-shadow: 5px 5px 5px grey;
 }
 
+canvas{
+  border-radius: 30px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  border-width: 5px;
+  box-shadow: 5px 5px 5px grey;
+
+}
 
 
 
